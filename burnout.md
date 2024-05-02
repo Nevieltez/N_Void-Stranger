@@ -21,4 +21,4 @@ Becuase the struggle and pain is what makes the reward worth it.
 
 With that being said, it will save you a lot of time in trying to figure out the little things that, well, took me a lot of while to get used to. And, as they say, practice makes perfect. It's still a tricky battle, and I wish you best of luck >:)
 
-![Practice Makes Perfect](./attachments/VoidStranger_PVoid_Stranger%20nh8.png)
+![Practice Makes Perfect](./attachments/VoidStranger_PVoid_Stranger%20nh8.png | width=480)
