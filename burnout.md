@@ -40,11 +40,6 @@ Move off the grid.
 Fun Fact: you can move off the grid at the top and hit her while the hexagons are going by. If you want to be efficient.
 3x3
 
-
-https://github.com/Nevieltez/Void-Stranger_Notes/assets/96298249/816e7cbe-be8f-4e33-9270-8df2ff93308f
-
-
-
 #### 2. Crescent Rings
 
 Move off the grid around the middle.
@@ -139,4 +134,28 @@ Happens once you've hit her 14 times and haven't made the 16th hit yet. Or happe
 
 ### Phase 2
 
+I have yet to organize these and clip them. But all of these are just faster varients of phase 1 attacks, though really quite annoying.
+
 ### Phase 3
+
+#### The Square
+
+#### Rockets
+
+They seem to drop on the 3x3 based on players position. As soon as you see the first rocket target, move out of the way and up/down depending on square. Best be quick or else you're toast.
+Jump over 3 Lines and move out of the way. Repeat 3 times and you're on the next phase.
+
+#### Hexagons #1
+
+Go through them
+
+#### Hexagons #2
+
+And go through them
+
+#### Black Screen
+
+The squares get fast. then they get slow. And finally the screen goes black.
+I think You have to jump 3 times when the screen has gone black. With the rythmn of the black lines.
+
+You have to jump 2 times after the screen goes black. You can see the first of those right before the screen goes black, the next one you have to time it and jump at a second mark.
