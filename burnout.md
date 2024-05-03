@@ -40,7 +40,7 @@ Move off the grid.
 Fun Fact: you can move off the grid at the top and hit her while the hexagons are going by. If you want to be efficient.
 3x3
 
-<img src="./attachments/1_3x3-[00.00.000-00.08.682].gif" width="480" alt="Practice Makes Perfect" />
+<img src="./attachments/1_3x3-[00.00.000-00.08.682].gif" width="480" alt="Hexagon Trail" />
 
 #### 2. Crescent Rings
 
