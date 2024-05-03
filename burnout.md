@@ -40,9 +40,10 @@ Move off the grid.
 Fun Fact: you can move off the grid at the top and hit her while the hexagons are going by. If you want to be efficient.
 3x3
 
-<img src="https://github.com/Nevieltez/Void-Stranger_Notes/assets/96298249/78adf58e-b58c-44cd-af5b-fc9ddaf11d8c" width="480" alt="Practice Makes Perfect" />
 
-<img src="https://imgur.com/mDBs4aX" width="480">
+https://github.com/Nevieltez/Void-Stranger_Notes/assets/96298249/816e7cbe-be8f-4e33-9270-8df2ff93308f
+
+
 
 #### 2. Crescent Rings
 
