@@ -154,6 +154,6 @@ And go through them
 #### Black Screen
 
 The squares get fast. then they get slow. And finally the screen goes black.
-I think You have to jump 3 times when the screen has gone black. With the rythmn of the black lines.
+I think You have to jump 2 times when the screen has gone black. With the rythmn of the last black lines. You have to at the count of a second, so practically it's a heartbeat.
 
 You have to jump 2 times after the screen goes black. You can see the first of those right before the screen goes black, the next one you have to time it and jump at a second mark.
