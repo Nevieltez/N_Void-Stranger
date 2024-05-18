@@ -11,10 +11,10 @@ Though a lot of tips and some pattern information about attacks would hopefully 
 
 ## General Tips
 
-- Make sure your hand position is not awkward and doesn't cause pain.
-- Pay attention to the spawn order of attacks, their position, and order.
+- Make sure your hand position is not awkward and doesn't cause pain. I had this problem.
+- Pay attention to the spawn order of the spawners.
 - Pay attention to the position of attacks, and their behavior. All attacks are predictable, even if not always dodgeable.
-- Try to get as many tiles during the transition so you don't have to survive phase 2 for too long.
+- Try to get as many tiles during the transition to phase 2 so you don't have to deal with too many phase 2 attacks.
 - Make sure to take breaks. I barely followed this one, but I do highly recommend it.
 
 <img alt="Arena Image" src="./attachments/Arena.png" width="480" />
