@@ -127,7 +127,7 @@ https://github.com/Nevieltez/N_Void-Stranger/assets/96298249/bc9b1bff-8cb3-454d-
 
 #### 10. Burst Shooting - Cif
 
-Has 2 variants. Just horizontally and you should dodge them easily.
+Has 2 variants. I recommend moving horizontally to dodge them.
 
 https://github.com/Nevieltez/N_Void-Stranger/assets/96298249/886e864b-d1de-4a50-ab26-dc5f48374802
 
