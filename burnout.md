@@ -49,7 +49,7 @@ The bare minimum structure you'd need to dodge every phase 1 attack.
 
 It's a 3x3 with a hole in the middle, with 5 tiles around it. 5 tiles being optional for all but 2 attacks.
 
-You can consistently dodge every phase 1 attack with just this and, well, a bit of practice of course.
+You can consistently dodge every phase 1 attack with just this and, well, a bit of practice, of course.
 
 <img alt="Paw Platform" src="./attachments/PawPlatform.png" width="480" />
 
@@ -63,7 +63,7 @@ In Phase 2, they both attack simultaneously.
 
 In phase 3, the shrimps go away.
 
-Here's a video of how I generally clear blocks on the arena during phase 1.
+Here's a video of how I clear blocks on the arena during phase 1. You can do it any way you feel comfortable.
 
 https://github.com/Nevieltez/N_Void-Stranger/assets/96298249/2eb4a6d0-892d-4c4a-8659-7924a02e94e5
 
