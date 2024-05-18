@@ -33,13 +33,14 @@ It is a lot safer and gives more room to move around.
 
 ### 3x3 Approach
 
-The second is shortening the arena and start chipping at it from either sides going towards the middle. I used this one. A slightly modified version below.
+The second approch is shortening the arena and start chipping at it from either sides going towards the middle.
+I used this one. A slightly modified version below.
 
 ### Paw Platform
 
 Funny name, I know. It kind of looks like a paw. The minimum structure you'd need to dodge every phase 1 attack.
 
-It's a 3x3 with a hole in the middle. And than 5 tiles around it. 5 tiles being optional for all but 2 attacks.
+It's a 3x3 with a hole in the middle, with 5 tiles around it. 5 tiles being optional for all but 2 attacks.
 
 You can consistently dodge every phase 1 attack with just this and, well, a bit of practice of course.
 
