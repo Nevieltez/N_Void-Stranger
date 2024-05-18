@@ -6,8 +6,6 @@ And if you feel stuck somewhere you can look here.
 
 This is by no means an extensive guide for the entire fight. Though a lot of tips and some pattern information about attacks that would hopefully save you a lot of time.
 
-![Test](https://imgur.com/mDBs4aX)
-
 ## General Tips
 
 - Make sure your hand position is not awkward and doesn't cause pain.
