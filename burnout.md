@@ -48,7 +48,8 @@ Shrimps spawn an attack, and once that attack ends Cif attacks. They alternate t
 Phase 2, they simultaneously attack. In a main attack + a sub attack.
 
 Here's a video of how I generally do phase 1.
-![Git Video](https://github.com/Nevieltez/N_Void-Stranger/assets/96298249/2eb4a6d0-892d-4c4a-8659-7924a02e94e5)
+
+https://github.com/Nevieltez/N_Void-Stranger/assets/96298249/2eb4a6d0-892d-4c4a-8659-7924a02e94e5
 
 ### Attacks - Phase 1
 
