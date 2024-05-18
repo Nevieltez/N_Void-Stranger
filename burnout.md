@@ -23,6 +23,11 @@ Though a lot of tips and some pattern information about attacks would hopefully 
 
 There are majorly two different approaches to this. Both have their pros and cons, kind of.
 
+Checkerboard is more safe as it gives you more room to move around.
+3x3 is crapped up so you have to move carefully.
+
+You can pick either. I went with the 3x3.
+
 ### Checkerboard Approach
 
 Since you have wings you can take every other block and use it.
@@ -34,11 +39,13 @@ It is a lot safer and gives more room to move around.
 ### 3x3 Approach
 
 The second approch is shortening the arena and start chipping at it from either sides going towards the middle.
-I used this one. A slightly modified version below.
+A slightly modified version below that I used.
 
 ### Paw Platform
 
-Funny name, I know. It kind of looks like a paw. The minimum structure you'd need to dodge every phase 1 attack.
+Funny name, I know. It kind of looks like a paw, or at least it did when I came up with it.
+
+The bare minimum structure you'd need to dodge every phase 1 attack.
 
 It's a 3x3 with a hole in the middle, with 5 tiles around it. 5 tiles being optional for all but 2 attacks.
 
