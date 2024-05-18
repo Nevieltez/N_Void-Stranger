@@ -38,7 +38,7 @@ Funny name, I know. It kind of looks like a paw. It's a 3x3 with a hole in the m
 The minimum amount tiles you need to dodge every phase 1 attack.
 The 5 tiles are completely optional for most attacks, but makes some attacks very easy. You can consistently dodge every phase 1 attack with just this and, well, a bit of practice of course.
 
-![](attachments/56a0b1a65d73b6feabad661e005f71cc.png)
+<img alt="Black Screen" src="./attachments/PawPlatform.png" width="480" />
 
 ## Attacks
 
