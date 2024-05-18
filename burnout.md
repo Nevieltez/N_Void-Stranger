@@ -75,7 +75,7 @@ These attacks are ranked from easy to hard. Kind of, but not strictly. It's base
 
 Move off the grid, and wait for it to end.
 
-You can also move off the grid at the top and hit her while the hexagons are going by. If you want to be efficient.
+You can also move off the grid at the top and hit Cif while the hexagons are going by. If you want to be efficient.
 
 https://github.com/Nevieltez/N_Void-Stranger/assets/96298249/56ea5b7d-0aec-4051-b745-ab8327b2bc90
 
